@@ -4,7 +4,7 @@
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" >
-<img src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=103" >
+<img src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=104" >
 
 </p>
 
