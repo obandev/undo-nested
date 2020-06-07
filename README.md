@@ -1,6 +1,6 @@
 <h1 align="center">Undo Nest</h1>
 
-### Undo Nest, is a JavaScript Library for dealing with nested values
+## Undo Nest, is a JavaScript Library for dealing with nested values
 
 <p align="center">
 
