@@ -1,6 +1,6 @@
 {
   "name": "undo-nested",
-  "version": "1.6.0",
+  "version": "1.0.0",
   "description": "Extract any nested value from into a flat array",
   "main": "build/index.js",
   "homepage": "https://github.com/pabloobandodev/undo-nested",
