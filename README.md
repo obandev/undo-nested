@@ -1,8 +1,50 @@
-# Undo Nest
+<h1 align="center">Undo Nest</h1>
 
-Undo Nest, is a function to JavaScript that takes nested values ​​and returns an array with un-nested values them, it can help you if you have
+Undo Nest, is a JavaScript Library for dealing with nested values
 
-- **Array** with any levels of nesting [[[]]]
-- **Object** with any levels of nesting {{{}}}
-- **Array or objects mixed** with any levels of nesting [{{[[{}]]}}]
-- **String** with any levels of nesting ''''''
+<p align="center">
+
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+
+</p>
+
+## Installation
+
+Using the package manager Yarn to install undo-nested.
+
+```bash
+yarn add undo-nested
+```
+
+Using the package manager npm to install undo-nested.
+
+```bash
+npm install undo-nested
+```
+
+## Usage
+
+```javascript
+import { undoNested } from 'undo-nested'
+
+undoNested([1, [2, 3], [[4]]]) # returns [1, 2, 3, 4]
+undoNested({name: 'Rick Sanchez', family: { name: 'Morty Smith' }}) # returns ['Rick Sanchez', 'Morty Smith']
+undoNested(['Rick Sanchez', {age: 70}]) # returns ['Rick Sanchez', 70]
+
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
