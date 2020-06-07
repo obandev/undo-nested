@@ -1,7 +1,5 @@
 <h1 align="center">Undo Nest</h1>
 
-## Undo Nest, is a JavaScript Library for dealing with nested values
-
 <p align="center">
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
@@ -9,6 +7,10 @@
 <img src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=103" >
 
 </p>
+
+## What is?
+
+Undo Nest, is a JavaScript Library for dealing with nested values
 
 ## Installation
 
