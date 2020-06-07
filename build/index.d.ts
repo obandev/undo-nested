@@ -1,1 +1,1 @@
-export declare const undoNesting: (nestedValue: [] | {}) => (string | number)[];
+export declare const undoNested: (nestedValue: [] | {}) => (string | number)[];

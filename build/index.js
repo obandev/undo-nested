@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.undoNesting = void 0;
-exports.undoNesting = function (nestedValue) {
+exports.undoNested = void 0;
+exports.undoNested = function (nestedValue) {
     var unNestedValues = JSON.stringify(nestedValue)
         .replace(/\[|\]|\{|[^#\&\?,]*:|\}/g, '')
         .split(',');
