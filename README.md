@@ -1,16 +1,12 @@
 <h1 align="center">Undo Nest</h1>
 
-Undo Nest, is a JavaScript Library for dealing with nested values
+<h3>Undo Nest, is a JavaScript Library for dealing with nested values</h3>
 
 <p align="center">
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-
-[![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
-
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+<img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" >
+<img src="https://badges.frapsoft.com/typescript/love/typescript.svg?v=103" >
 
 </p>
 
